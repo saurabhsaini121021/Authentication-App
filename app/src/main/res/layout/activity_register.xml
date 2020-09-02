@@ -39,43 +39,40 @@
 
     <EditText
         android:id="@+id/fullName"
-        android:layout_width="370dp"
-        android:layout_height="55dp"
+        android:layout_width="363dp"
+        android:layout_height="49dp"
         android:ems="10"
         android:hint="Full Name"
         android:inputType="textPersonName"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.361" />
+        app:layout_constraintVertical_bias="0.36" />
 
     <EditText
         android:id="@+id/email"
-        android:layout_width="370dp"
-        android:layout_height="55dp"
+        android:layout_width="363dp"
+        android:layout_height="49dp"
         android:ems="10"
         android:hint="Email"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.455" />
+        app:layout_constraintVertical_bias="0.453" />
 
     <EditText
         android:id="@+id/phone"
-        android:layout_width="370dp"
-        android:layout_height="55dp"
+        android:layout_width="363dp"
+        android:layout_height="49dp"
         android:ems="10"
         android:hint="Phone"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.609"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.652" />
@@ -128,7 +125,6 @@
         android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.437"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.557" />
